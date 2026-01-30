@@ -1,0 +1,11 @@
+# Python dependencies for the News Event Impact Detector
+numpy
+pandas
+scikit-learn
+transformers
+torch
+datasets
+tqdm
+yfinance
+streamlit
+lightgbm
